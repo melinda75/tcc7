@@ -1,2 +1,2 @@
  1. ## PT 8 PRATIKUM CLOUD COMPUTING
-  2. 
+  2. g
